@@ -1,6 +1,5 @@
 # ✈️ GrowTravel - Deploy Vercel
 
-![Vercel Deploy](https://deploy-badge.v2.vercel.app/api/Lucasgyn94/growtravel-vercel)
 ![GitHub language count](https://img.shields.io/github/languages/count/Lucasgyn94/growtravel-vercel?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Lucasgyn94/growtravel-vercel?style=for-the-badge)
 
